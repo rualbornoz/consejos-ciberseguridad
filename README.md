@@ -13,6 +13,8 @@ Al momento de ser robado, todos tus datos están comprometidos. Debes [borrar tu
 
 Bloquea tu número de teléfono, ve directo a tu operador móvil para que no clonen tu tarjeta SIM. Bloquea tus tarjetas bancarias de débito y crédito. Cambia el número de teléfono con el banco, porque ese será por mientras el número de contacto y de seguridad que usen para verificar tu identidad, da el número de teléfono de un familiar o alguien de confianza hasta que compres un nuevo teléfono.
 
+El banco te dará nuevas tarjetas. Cuando compres tu nuevo teléfono, cambia ese número en todos tus servicios.
+
 ### Nuevo mail y cambia contraseñas
 
 Crea un nuevo mail. Y cambia el mail antiguo en todos tus servicios que estés suscrito, también da ese nuevo mail a tu banco y pide que borren el antiguo, haz lo mismo con tu operador móvil. Luego cambia las contraseñas de todos los servicios justo después de cambiar el mail, en ese orden.
