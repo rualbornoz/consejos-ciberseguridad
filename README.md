@@ -15,7 +15,7 @@ Bloquea tu número de teléfono, ve directo a tu operador móvil para que no clo
 
 ### Nuevo mail y cambia contraseñas
 
-Crea un nuevo mail. Y cambia el mail antiguo en todos tus servicios que estés suscrito, también da ese nuevo mail a tu banco y pide que borren el antiguo. Luego cambia las contraseñas de todos los servicios justo después de cambiar el mail, en ese orden.
+Crea un nuevo mail. Y cambia el mail antiguo en todos tus servicios que estés suscrito, también da ese nuevo mail a tu banco y pide que borren el antiguo, haz lo mismo con tu operador móvil. Luego cambia las contraseñas de todos los servicios justo después de cambiar el mail, en ese orden.
 
 Web
 ---
