@@ -3,6 +3,20 @@ Consejos sobre seguridad de información (Ciberseguridad)
 
 Son cosas básicas sobre qué debes hacer para [asegurar tu información](https://web.archive.org/web/20200901184023/https://es.wikipedia.org/wiki/Seguridad_de_la_informaci%C3%B3n), y prácticas que debes seguir a diario.
 
+## ¿Qué hacer al perder tu teléfono?
+
+### Borra tu teléfono
+
+Al momento de ser robado, todos tus datos están comprometidos. Debes [borrar tu iPhone remotamente desde iCloud en Encontrar dispositivos](https://support.apple.com/es-cl/guide/icloud/mmfc0ef36f/icloud). También puedes [borrar Android remotamente](https://support.google.com/android/answer/6160491?hl=es).
+
+### Bloquea tus tarjetas
+
+Bloquea tu número de teléfono en tu operador móvil. Bloquea tus tarjetas bancarias de débito y crédito. Informa al banco de un nuevo número de teléfono, da el número de un familiar.
+
+### Nuevo mail y cambia contraseñas
+
+Crea un nuevo mail. Cambia el mail de contacto en todos tus servicios, da ese nuevo mail a tu banco. Luego cambia las contraseñas de todos los servicios justo después de cambiar el mail, para notificar el cambio de contraseña en ese nuevo mail.
+
 Web
 ---
 
@@ -133,6 +147,10 @@ No hagas root en Android, le das paso a varios [riesgos de seguridad](https://we
 Instala todas las apps de Android solo desde la [Google Play Store](https://web.archive.org/web/20200901184023/https://play.google.com/store). La tienda siempre [escanea apps peligrosas](https://web.archive.org/web/20200901184023/https://support.google.com/accounts/answer/2812853) y las borra remotamente.
 
 Con Android compra un [Pixel](https://web.archive.org/web/20200901184023/https://es.wikipedia.org/wiki/Google_Pixel). O cualquier otro fabricante que tenga teléfonos de gama alta, porque las actualizaiones llegan primero y el soporte dura más que los de gama baja.
+
+### Apps con datos bancarios
+
+Activa la autenticación con datos biométricos como [FaceID](https://support.apple.com/es-cl/guide/iphone/iph6d162927a/ios) o TouchID para entrar a apps de bancos o ecommerce que tengan tus datos bancarios. En apps que usen datos de tus tarjetas bancarias, borra la información que tengan de ellas, y solo ingresalas el día que las uses, y borra las tarjetas cuando ya no las uses (por ejemplo Uber, Uber eats, Cabify, MercadoLibre, Aliexpress).
 
 OS de Escritorio
 ----------------
