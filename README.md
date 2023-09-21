@@ -156,6 +156,8 @@ Usa iPhone con la última versión de iOS, desde iOS 14 que Apple [aumentó aún
 
 No hagas jailbreak de iOS. Es muy inseguro, las tiendas no oficiales pueden agregar repositorios externos con software malicioso. Casi siempre vienen de China ese tipo de software.
 
+Si descubres que tu iPhone ya ha sido vulnerado, [resetea a la configuración de fábrica borrando todo](https://support.apple.com/es-cl/HT201274#:~:text=Toca%20Configuración%3E%20General%3E%20Transferir%20o,Toca%20Borrar%20contenido%20y%20configuración.).
+
 ### Android
 
 No hagas root en Android, le das paso a varios [riesgos de seguridad](https://www.makeuseof.com/tag/security-reasons-never-root-android/). [No instales APK](https://bayton.org/docs/enterprise-mobility/android/why-you-shouldnt-install-apps-from-unknown-sources/) de fuentes externas (la opción en 'Configuración > Seguridad' viene desactivada por defecto), ni si quieras lo intentes.
@@ -163,6 +165,9 @@ No hagas root en Android, le das paso a varios [riesgos de seguridad](https://ww
 Instala todas las apps de Android solo desde la [Google Play Store](https://play.google.com/store). La tienda siempre [escanea apps peligrosas](https://support.google.com/accounts/answer/2812853) y las borra remotamente.
 
 Con Android compra un [Pixel](https://es.wikipedia.org/wiki/Google_Pixel). O cualquier otro fabricante que tenga teléfonos de gama alta, porque las actualizaiones llegan primero y el soporte dura más que los de gama baja.
+
+Si descubres que tu Android ya ha sido vulnerado, [resetea a la configuración de fábrica borrando todo](https://support.google.com/android/answer/6088915?hl=es-419).
+
 
 ### Apps con datos bancarios
 
