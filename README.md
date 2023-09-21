@@ -104,7 +104,9 @@ Mensajería cifrada
 
 Usa [Signal](https://web.archive.org/web/20200901184023/https://whispersystems.org/). Signal se encuentra en [Android](https://web.archive.org/web/20200901184023/https://play.google.com/store/apps/details?id=org.thoughtcrime.securesms&hl=es) y [iOS](https://web.archive.org/web/20200901184023/https://itunes.apple.com/us/app/signal-private-messenger/id874139669?mt=8), usa cifrado de extremo a extremo (E2E) y no guarda registros de nada. iMessage, la app de mensajería de Apple [también usa encriptación](https://web.archive.org/web/20200901184023/https://support.apple.com/es-cl/HT209110) de extremo a extremo.
 
-Whatsapp también habilitó el [cifrado de extremo a extremo](https://web.archive.org/web/20200901184023/https://faq.whatsapp.com/general/security-and-privacy/end-to-end-encryption/) en sus mensajes, pero [guardan la metadata](https://web.archive.org/web/20200901184023/https://www.andreafortuna.org/2019/08/12/why-whatsapp-and-telegram-messages-are-not-really-private/), cosas como cuando te conectaste y con quienes hablaste pero no el contenido de los mensajes. Activa FaceID en Whatsapp si no quieres alguien tome tu teléfono y envie mensajes a tus conocidos.
+Whatsapp también habilitó el [cifrado de extremo a extremo](https://web.archive.org/web/20200901184023/https://faq.whatsapp.com/general/security-and-privacy/end-to-end-encryption/) en sus mensajes, pero [guardan la metadata](https://web.archive.org/web/20200901184023/https://www.andreafortuna.org/2019/08/12/why-whatsapp-and-telegram-messages-are-not-really-private/), cosas como cuando te conectaste y con quienes hablaste pero no el contenido de los mensajes. 
+
+Activa FaceID en Whatsapp si no quieres alguien tome tu teléfono y envie mensajes a tus conocidos.
 
 ### Mail
 
@@ -129,7 +131,9 @@ Apple Maps [recolecta datos anonimamente](https://web.archive.org/web/2020090118
 Archivos en la nube
 -------------------
 
-Usa [NordLocker](https://nordlocker.com), encripta todos tus archivos en sus servidores. O también usa servicios con servidores encriptados y que no sepan tu clave de acceso, tales como [MEGA](https://web.archive.org/web/20200901184023/https://mega.nz/about/privacy), [pCloud](https://web.archive.org/web/20200901184023/https://www.pcloud.com/es/encrypted-cloud-storage.html), [Tresorit](https://web.archive.org/web/20200901184023/https://tresorit.com/security) o [SpiderOak](https://web.archive.org/web/20200901184023/https://spideroak.com/no-knowledge/). Servicos como Google Drive o Dropbox no encriptan tus archivos en sus servidores, cualquiera con las llaves puede acceder.
+Usa [NordLocker](https://nordlocker.com), encripta todos tus archivos en sus servidores. O también usa servicios con servidores encriptados y que no sepan tu clave de acceso, tales como [MEGA](https://web.archive.org/web/20200901184023/https://mega.nz/about/privacy), [pCloud](https://web.archive.org/web/20200901184023/https://www.pcloud.com/es/encrypted-cloud-storage.html), [Tresorit](https://web.archive.org/web/20200901184023/https://tresorit.com/security) o [SpiderOak](https://web.archive.org/web/20200901184023/https://spideroak.com/no-knowledge/). 
+
+Servicos como Google Drive o Dropbox no encriptan tus archivos en sus servidores, cualquiera con las llaves puede acceder a ellos.
 
 Teléfono Móvil
 -----
