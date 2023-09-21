@@ -70,7 +70,7 @@ Usa un administrador de contraseñas externo. Usa [NordPass](https://nordpass.co
 
 Duda de usar [Google Password Manager](https://web.archive.org/web/20200901184023/https://passwords.google.com/), que es donde se albergan todas las contraseñas que guardas en Chrome, porque cualquier persona que sepa la contraseña de tu equipo las puede ver, ni siquiera es necesario saber la contraseña de Gmail, a pesar de que se [se encriptan en sus servidores](https://web.archive.org/web/20200901184023/https://support.google.com/accounts/answer/6208650?hl=es-419), estas si se almacenan también localmente en el navegador.
 
-También duda de usar [iCloud Keychain](https://web.archive.org/web/20200901184023/https://support.apple.com/en-us/HT204085), que es donde se albergan todas las contraseñas que guardas en tu Mac y iPhone, debido que en el Mac se pueden ver las contraseñas con solo saber la contraseña del equipo, no la de iCloud. eso si, Apple utiliza encriptación de extremo a extremo para guardarlas.
+También duda de usar [iCloud Keychain](https://web.archive.org/web/20200901184023/https://support.apple.com/en-us/HT204085), que es donde se albergan todas las contraseñas que guardas en tu Mac y iPhone, debido a que en macOS se pueden ver tus contraseñas con solo saber la contraseña del equipo, no la de iCloud. Eso si, Apple utiliza encriptación de extremo a extremo para guardarlas.
 
 ### Autentificación de 2 pasos - 2FA
 
