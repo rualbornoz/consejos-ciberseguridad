@@ -114,6 +114,14 @@ Para enviar mail con cifrado de extremo a extremo (E2E), debes usar [ProtonMail]
 
 En Gmail [leen tus mails](https://www.quora.com/Can-Google-read-my-mails) para ofrecer publicidad a terceros (bots que escanenan lo hacen), ellos [conservan las llaves](https://policies.google.com/privacy#infocollect) para recolectar información, y el nuevo mail [HEY también guardan sus llaves](https://hey.com/faqs/#can-you-read-my-emails) para tener un acceso a los servidores.
 
+Si reciben un mail de dudosa procedencia o con un dominio de mail que no se vea oficial sobre una empresa, duden de pulsar algún link que venga dentro, y no comportan nada de información personal por ese mail si ustedes no lo han pedido, porque eso es [Phishing](https://es.malwarebytes.com/phishing/).
+
+### SMS
+
+Jamás abran links de algún SMS si ustedes no lo han pedido. Los [ataques a dispositivos por SMS](https://www.kaspersky.com/resource-center/threats/sms-attacks) también existen.
+
+Los típicos SMS de confirmación de autenticación borrenlos despúes de usarlos.
+
 Dispositivos conectados
 -----------------------
 
@@ -211,6 +219,11 @@ En la configuración de tu router solo [usa WPA2 con cifrado AES](https://www.yo
 ### Evita Wi-Fi públicos
 
 Jamás ingreses información de tus contraseñas o información bancaria si estás en una red Wi-Fi que no sea de tu casa o de un conocido. Si estás en una red Wi-Fi externa de metro o tienda, limítate solo a navegar o enviar mensajes.
+
+Bluetooth
+---
+
+Apaguen el bluetooth si no lo están usando, igualmente se puede [forzar la entrada por bluetooth](https://home.sophos.com/en-us/security-news/2021/bluetooth-attacks). Tampoco se conecten a cualquier dispositivo bluetooth si ustedes no lo han pedido.
 
 VPN
 ---
