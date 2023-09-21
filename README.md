@@ -120,7 +120,7 @@ Si reciben un mail de dudosa procedencia o con un dominio de mail que no se vea 
 
 Jamás abran links de algún SMS si ustedes no lo han pedido. Los [ataques a dispositivos por SMS](https://www.kaspersky.com/resource-center/threats/sms-attacks) también existen.
 
-Los típicos SMS de confirmación de autenticación borrenlos despúes de usarlos.
+Los típicos SMS de confirmación de autenticación borrenlos después de usarlos.
 
 Dispositivos conectados
 -----------------------
