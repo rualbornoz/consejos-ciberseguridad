@@ -5,17 +5,17 @@ Son cosas básicas sobre qué debes hacer para [asegurar tu información](https:
 
 ## ¿Qué hacer al perder tu teléfono?
 
-### Borra tu teléfono
+### Borra tu teléfono remotamente
 
 Al momento de ser robado, todos tus datos están comprometidos. Debes [borrar tu iPhone remotamente desde iCloud en Encontrar dispositivos](https://support.apple.com/es-cl/guide/icloud/mmfc0ef36f/icloud). También puedes [borrar Android remotamente](https://support.google.com/android/answer/6160491?hl=es).
 
-### Bloquea tus tarjetas
+### Bloquea tu número y tus tarjetas
 
-Bloquea tu número de teléfono en tu operador móvil. Bloquea tus tarjetas bancarias de débito y crédito. Informa al banco de un nuevo número de teléfono, da el número de un familiar.
+Bloquea tu número de teléfono, ve directo a tu operador móvil para que no clonen tu tarjeta SIM. Bloquea tus tarjetas bancarias de débito y crédito. Cambia el número de teléfono con el banco, porque ese será por mientras el número de contacto y de seguridad que usen para verificar tu identidad, da el número de teléfono de un familiar o alguien de confianza hasta que compres un nuevo teléfono.
 
 ### Nuevo mail y cambia contraseñas
 
-Crea un nuevo mail. Cambia el mail de contacto en todos tus servicios, da ese nuevo mail a tu banco. Luego cambia las contraseñas de todos los servicios justo después de cambiar el mail, para notificar el cambio de contraseña en ese nuevo mail.
+Crea un nuevo mail. Y cambia el mail antiguo en todos tus servicios que estés suscrito, también da ese nuevo mail a tu banco y pide que borren el antiguo. Luego cambia las contraseñas de todos los servicios justo después de cambiar el mail, en ese orden.
 
 Web
 ---
@@ -64,11 +64,11 @@ Contraseñas
 
 ### Administrador de contraseñas
 
-Usa un administrador de contraseñas. Usa [NordPass](https://nordpass.com/es/) en macOS y el iPhone. También existe [1Password](https://web.archive.org/web/20200901184023/https://agilebits.com/onepassword).
+Usa un administrador de contraseñas externo. Usa [NordPass](https://nordpass.com/es/) en macOS y el iPhone. También existe [1Password](https://web.archive.org/web/20200901184023/https://agilebits.com/onepassword).
 
-[Google Password Manager](https://web.archive.org/web/20200901184023/https://passwords.google.com/) es donde se albergan todas las contraseñas que guardas en Chrome, pero cualquier persona que sepa tu contraseña de tu equipo las puede ver, ni siquiera es necesario saber la contraseña de Gmail, a pesar de que se [se encriptan en sus servidores](https://web.archive.org/web/20200901184023/https://support.google.com/accounts/answer/6208650?hl=es-419), estas se almacenan también localmente en el navegador.
+Duda de usar [Google Password Manager](https://web.archive.org/web/20200901184023/https://passwords.google.com/), que es donde se albergan todas las contraseñas que guardas en Chrome, porque cualquier persona que sepa la contraseña de tu equipo las puede ver, ni siquiera es necesario saber la contraseña de Gmail, a pesar de que se [se encriptan en sus servidores](https://web.archive.org/web/20200901184023/https://support.google.com/accounts/answer/6208650?hl=es-419), estas si se almacenan también localmente en el navegador.
 
-[iCloud Keychain](https://web.archive.org/web/20200901184023/https://support.apple.com/en-us/HT204085) es donde se albergan todas las contraseñas que guardas en tu Mac y iPhone, y Apple utiliza encriptación de extremo a extremo para guardarlas.
+También duda de usar [iCloud Keychain](https://web.archive.org/web/20200901184023/https://support.apple.com/en-us/HT204085), que es donde se albergan todas las contraseñas que guardas en tu Mac y iPhone, debido que en el Mac se pueden ver las contraseñas con solo saber la contraseña del equipo, no la de iCloud. eso si, Apple utiliza encriptación de extremo a extremo para guardarlas.
 
 ### Autentificación de 2 pasos - 2FA
 
@@ -102,7 +102,7 @@ Mensajería cifrada
 
 Usa [Signal](https://web.archive.org/web/20200901184023/https://whispersystems.org/). Signal se encuentra en [Android](https://web.archive.org/web/20200901184023/https://play.google.com/store/apps/details?id=org.thoughtcrime.securesms&hl=es) y [iOS](https://web.archive.org/web/20200901184023/https://itunes.apple.com/us/app/signal-private-messenger/id874139669?mt=8), usa cifrado de extremo a extremo (E2E) y no guarda registros de nada. iMessage, la app de mensajería de Apple [también usa encriptación](https://web.archive.org/web/20200901184023/https://support.apple.com/es-cl/HT209110) de extremo a extremo.
 
-Whatsapp también habilitó el [cifrado de extremo a extremo](https://web.archive.org/web/20200901184023/https://faq.whatsapp.com/general/security-and-privacy/end-to-end-encryption/) en sus mensajes, pero [guardan la metadata](https://web.archive.org/web/20200901184023/https://www.andreafortuna.org/2019/08/12/why-whatsapp-and-telegram-messages-are-not-really-private/), cosas como cuando te conectaste y con quienes hablaste pero no el contenido de los mensajes.
+Whatsapp también habilitó el [cifrado de extremo a extremo](https://web.archive.org/web/20200901184023/https://faq.whatsapp.com/general/security-and-privacy/end-to-end-encryption/) en sus mensajes, pero [guardan la metadata](https://web.archive.org/web/20200901184023/https://www.andreafortuna.org/2019/08/12/why-whatsapp-and-telegram-messages-are-not-really-private/), cosas como cuando te conectaste y con quienes hablaste pero no el contenido de los mensajes. Activa FaceID en Whatsapp si no quieres alguien tome tu teléfono y envie mensajes a tus conocidos.
 
 ### Mail
 
@@ -129,10 +129,12 @@ Archivos en la nube
 
 Usa [NordLocker](https://nordlocker.com), encripta todos tus archivos en sus servidores. O también usa servicios con servidores encriptados y que no sepan tu clave de acceso, tales como [MEGA](https://web.archive.org/web/20200901184023/https://mega.nz/about/privacy), [pCloud](https://web.archive.org/web/20200901184023/https://www.pcloud.com/es/encrypted-cloud-storage.html), [Tresorit](https://web.archive.org/web/20200901184023/https://tresorit.com/security) o [SpiderOak](https://web.archive.org/web/20200901184023/https://spideroak.com/no-knowledge/). Servicos como Google Drive o Dropbox no encriptan tus archivos en sus servidores, cualquiera con las llaves puede acceder.
 
-Móvil
+Teléfono Móvil
 -----
 
 No conectes jamás tu teléfono a un [computador del trabajo](https://web.archive.org/web/20200901184023/https://archerint.com/dont-want-plug-phone-work/), le puedes dar acceso a través de la red celular del teléfono o puede ser infectado. Tampoco conectes [tu teléfono a puertos usb públicos](https://web.archive.org/web/20200901184023/https://theconversation.com/charging-your-phone-using-a-public-usb-port-beware-of-juice-jacking-130947), como buses o viones, pueden transferir software espía, a menos que tengas un bloqueador de datos.
+
+Bloquea tu teléfono siempre que no lo uses, no lo dejes por ahí con la pantalla abierta. Activa la autenticación biométrica como FaceID o TouchID, es más difícil entrar a un dispositivo de esa forma que saber una contraseña.
 
 ### iPhone
 
@@ -150,7 +152,7 @@ Con Android compra un [Pixel](https://web.archive.org/web/20200901184023/https:/
 
 ### Apps con datos bancarios
 
-Activa la autenticación con datos biométricos como [FaceID](https://support.apple.com/es-cl/guide/iphone/iph6d162927a/ios) o TouchID para entrar a apps de bancos o ecommerce que tengan tus datos bancarios. En apps que usen datos de tus tarjetas bancarias, borra la información que tengan de ellas, y solo ingresalas el día que las uses, y borra las tarjetas cuando ya no las uses (por ejemplo Uber, Uber eats, Cabify, MercadoLibre, Aliexpress).
+Activa la autenticación con datos biométricos como [FaceID](https://support.apple.com/es-cl/guide/iphone/iph6d162927a/ios) o TouchID para entrar a apps de bancos o ecommerce que tengan tus datos bancarios. En apps que usen datos de tus tarjetas bancarias, borra la información de tarjetas que tengan de ellas, y solo ingresalas el día que las uses. Borra las tarjetas cuando ya no las uses en la app (por ejemplo Uber, Uber eats, Cabify, MercadoLibre, Aliexpress).
 
 OS de Escritorio
 ----------------
@@ -165,7 +167,7 @@ Usa [macOS](https://web.archive.org/web/20200901184023/https://cont3mpo.github.i
 
 ### Windows
 
-Usa Windows 10. Vienen activadas las [actualizaciones automáticas](https://web.archive.org/web/20200901184023/http://www.zdnet.com/article/windows-10-automatic-updates-get-over-it/) por defecto.
+Usa Windows 10 u 11. Vienen activadas las [actualizaciones automáticas](https://web.archive.org/web/20200901184023/http://www.zdnet.com/article/windows-10-automatic-updates-get-over-it/) por defecto.
 
 Si tienes un invitado en casa, que use la cuenta de invitado, es como la sesión de incógnito en los navegadores.
 
@@ -208,5 +210,3 @@ VPN
 ---
 
 Puedes [usar una VPN](https://web.archive.org/web/20200901184023/https://www.youtube.com/watch?v=B41vCC4KLkY) pagada como [TunnelBear](https://web.archive.org/web/20200901184023/https://www.tunnelbear.com/) si quieres más privacidad para navegar, esas gratis no son seguras. O también usa [NordVPN](https://nordvpn.com).
-
-22 de noviembre, 2015
