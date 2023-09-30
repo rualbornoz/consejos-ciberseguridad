@@ -36,7 +36,11 @@ Deshabilita siempre el autocompletar campos de todos lados. Limpia el historial 
 
 ### Bloquea publicidad y monitoreo
 
-Usa [uBlock Origin](https://chrome.google.com/webstore/detail/ublock-origin/cjpalhdlnbpafiamejdnhcphjbkeiagm?hl=es) en Chrome. Este bloquea la publicidad, y a la misma vez consume pocos recursos. También alerta de sitios que puedan infectar de adwares tu computador. No uses AdBlock Plus, consume muchos recursos, y recibe pagos de compañías para [dejar pasar sus avisos](https://www.engadget.com/2016-02-12-rip-adblock-plus.html).
+En Safari usa [AdGuard](https://adguard.com/es/welcome.html). Es seguro en el Mac y el iPhone.
+
+Usa [uBlock Origin](https://chrome.google.com/webstore/detail/ublock-origin/cjpalhdlnbpafiamejdnhcphjbkeiagm?hl=es) en Chrome. Este bloquea la publicidad, y a la misma vez consume pocos recursos. También alerta de sitios que puedan infectar de adwares tu computador.
+
+No uses AdBlock Plus, consume muchos recursos, y recibe pagos de compañías para [dejar pasar sus avisos](https://www.engadget.com/2016-02-12-rip-adblock-plus.html).
 
 En Android puedes bloquear publicidad con el navegador [AdBlock Browser](https://play.google.com/store/apps/details?id=org.adblockplus.browser&hl=es_419). También puedes usar [Ghostery](https://play.google.com/store/apps/details?id=com.ghostery.android.ghostery&hl=es_419) para bloquear scripts de sitios que monitorean tu actividad. En iOS puedes bloquear publicidad usando [Crystal](http://crystalapp.co/) (de pago), [ABP](https://itunes.apple.com/us/app/adblock-plus-abp/id1028871868?mt=8) y [AdBlock Browser](https://itunes.apple.com/us/app/adblock-browser-best-ad-blocker/id1015653330?mt=8).
 
