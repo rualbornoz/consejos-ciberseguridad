@@ -112,7 +112,7 @@ Activa FaceID en Whatsapp si no quieres alguien tome tu teléfono y envie mensaj
 
 ### Mail
 
-Para enviar mail con cifrado de extremo a extremo (E2E), debes usar [ProtonMail](https://protonmail.com/es/security-details), también [MsgSafe](https://www.msgsafe.io/benefits/end-to-end-encryption#benefits_top). En [FastMail no guardan llaves](https://www.fastmail.com/privacy-and-security/) para acceder a tu contenido, tus mails son solo para ti, aunque no usan E2E.
+Para enviar mail con cifrado de extremo a extremo (E2E), debes usar [Proton Mail](https://protonmail.com/es/security-details), también [MsgSafe](https://www.msgsafe.io/benefits/end-to-end-encryption#benefits_top). En [FastMail no guardan llaves](https://www.fastmail.com/privacy-and-security/) para acceder a tu contenido, tus mails son solo para ti, aunque no usan E2E.
 
 En Gmail [leen tus mails](https://www.quora.com/Can-Google-read-my-mails) para ofrecer publicidad a terceros (bots que escanenan lo hacen), ellos [conservan las llaves](https://policies.google.com/privacy#infocollect) para recolectar información, y el nuevo mail [HEY también guardan sus llaves](https://hey.com/faqs/#can-you-read-my-emails) para tener un acceso a los servidores.
 
@@ -235,4 +235,4 @@ Apaguen el bluetooth si no lo están usando, igualmente se puede [forzar la entr
 VPN
 ---
 
-Puedes [usar una VPN](https://www.youtube.com/watch?v=B41vCC4KLkY) pagada como [TunnelBear](https://www.tunnelbear.com/) si quieres más privacidad para navegar, esas gratis no son seguras. O también usa [NordVPN](https://nordvpn.com).
+Puedes [usar una VPN](https://www.youtube.com/watch?v=B41vCC4KLkY) pagada como [TunnelBear](https://www.tunnelbear.com/) si quieres más privacidad para navegar, esas gratis no son seguras. O también usa [NordVPN](https://nordvpn.com), o [Proton VPN](https://protonvpn.com).
