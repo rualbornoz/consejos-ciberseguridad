@@ -32,6 +32,8 @@ Microsoft Edge ha mejorado mucho sus [opciones de privacidad](https://microsofte
 
 Y Firefox también tiene [buena privacidad](https://www.mozilla.org/es-CL/firefox/privacy/).
 
+Deshabilita siempre el autocompletar campos de todos lados. Limpia el historial de vez en cuando, eso provocará que se cierren todas las sesiones que dejas abiertas, o las cookies que hayan quedado en memoria caché.
+
 ### Bloquea publicidad y monitoreo
 
 Usa [uBlock Origin](https://chrome.google.com/webstore/detail/ublock-origin/cjpalhdlnbpafiamejdnhcphjbkeiagm?hl=es) en Chrome. Este bloquea la publicidad, y a la misma vez consume pocos recursos. También alerta de sitios que puedan infectar de adwares tu computador. No uses AdBlock Plus, consume muchos recursos, y recibe pagos de compañías para [dejar pasar sus avisos](https://www.engadget.com/2016-02-12-rip-adblock-plus.html).
@@ -66,7 +68,7 @@ Contraseñas
 
 ### Administrador de contraseñas
 
-Usa un administrador de contraseñas externo. Usa [NordPass](https://nordpass.com/es/) en macOS y el iPhone. También existe [1Password](https://1password.com/es).
+Usa un administrador de contraseñas externo. Usa [NordPass](https://nordpass.com/es/) en macOS y el iPhone, o [Proton Pass](https://proton.me/es/pass). También existe [1Password](https://1password.com/es).
 
 Duda de usar [Google Password Manager](https://passwords.google.com/), que es donde se albergan todas las contraseñas que guardas en Chrome, porque cualquier persona que sepa la contraseña de tu equipo las puede ver, ni siquiera es necesario saber la contraseña de Gmail, a pesar de que se [se encriptan en sus servidores](https://support.google.com/accounts/answer/6208650?hl=es-419), estas si se almacenan también localmente en el navegador.
 
@@ -139,7 +141,7 @@ Apple Maps [recolecta datos anonimamente](https://www.forbes.com/sites/kateoflah
 Archivos en la nube
 -------------------
 
-Usa [NordLocker](https://nordlocker.com), encripta todos tus archivos en sus servidores. O también usa servicios con servidores encriptados y que no sepan tu clave de acceso, tales como [MEGA](https://mega.nz/about/privacy), [pCloud](https://www.pcloud.com/es/encrypted-cloud-storage.html), [Tresorit](https://tresorit.com/security) o [SpiderOak](https://spideroak.com/no-knowledge/). 
+Usa [NordLocker](https://nordlocker.com), encripta todos tus archivos en sus servidores, encriptan de punto a punto. También existe [Proton Drive](https://proton.me/es/drive). O también usa servicios con servidores encriptados y que no sepan tu clave de acceso, tales como [MEGA](https://mega.nz/about/privacy), [pCloud](https://www.pcloud.com/es/encrypted-cloud-storage.html), [Tresorit](https://tresorit.com/security) o [SpiderOak](https://spideroak.com/no-knowledge/). 
 
 Servicos como Google Drive o Dropbox no encriptan tus archivos en sus servidores, cualquiera con las llaves puede acceder a ellos.
 
